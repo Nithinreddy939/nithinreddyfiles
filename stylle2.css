@@ -1,0 +1,173 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-style: oblique;
+}
+.login{
+	height: 40px;
+	width: 100px;
+	border-radius: 20px 5px;
+}
+button{
+	width: 100px;
+	color: whitesmoke;
+	height: 40px;
+	border-radius: 20px 8px;
+	padding:-10px;
+	padding-top: -29px;
+	background: transparent;
+	border-color: white;
+	border-style: solid;
+}
+.h1{
+	color: whitesmoke;
+	letter-spacing: 2px;
+	font-size: 90px;
+	font-style: oblique;
+}
+.p{
+	color: whitesmoke;
+	font-size: 15px;
+}
+#div{
+
+	margin-left: 10px;
+	backdrop-filter: blur(2px);
+	justify-content: center;
+	font-style: oblique;
+	color: whitesmoke;
+	background-color: black;
+	border-radius: 20px;
+	border-style: solid;
+	border-color:whitesmoke ;
+}
+.button{
+	height: 40px;
+	width: 200px;
+	border-radius: 20px;
+}
+#grid{
+	
+	justify-content: space-between;
+	padding: 20px;
+	text-align: center;
+}
+#gridimg{
+	display: flex;
+	justify-content: center;
+	padding-left: 40px;
+	padding-top: 10px;
+	background: transparent;
+}
+#img{
+	width: 450px;
+}
+#cards{
+	background-image:url(https://images.pexels.com/photos/4245826/pexels-photo-4245826.jpeg?auto=compress&cs=tinysrgb&w=600);
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+	border-bottom: solid;
+	margin: 0;
+	padding:30px;
+	margin-top:30px;
+	color:black;
+	font-style: oblique;
+	justify-content:center;
+}
+.card1{
+	height:200px;
+	width:200px; 
+	padding:20px;
+	filter:blur(3px);
+	background-color:#0e0154;
+	border-radius:50%;
+	border-color:white;
+	border-style:solid;
+	margin:35px;
+	transition:3s;
+}
+.card1:hover{
+	filter:none;
+	color:white;
+	border-radius:20px;
+	background-color:black;
+}
+.card2{
+	height:200px;
+	width:200px; 
+	padding:20px;
+	filter:blur(3px);
+	background-color:#0e0154;
+	border-radius:50%;
+	border-color:white;
+	border-style:solid;
+	margin:35px;
+	transition:3s;
+}
+.card2:hover{
+	filter:none;
+	color:white;
+	border-radius:20px;
+	background-color:black;
+}
+.card3{
+	height:200px;
+	width:200px; 
+	padding:20px;
+	
+	filter:blur(3px);
+	background-color:#0e0154;
+	border-radius:50%;
+	border-color:white;
+	border-style:solid;
+	margin:35px;
+	transition:3s;
+}
+.card3:hover{
+	filter:none;
+	color:white;
+	border-radius:20px;
+	background-color:black;
+}
+.card4{
+	height:200px;
+	width:200px; 
+	padding:10px;
+	filter:blur(3px);
+	background-color:#0e0154;
+	border-radius:50%;
+	border-color:white;
+	border-style:solid;
+	margin:35px;
+	transition:3s;
+}
+.card4:hover{
+	filter:none;
+	color:white;
+	border-radius:20px;
+	background-color:black;
+}
+#footersection{
+	margin:0;
+	justify-content: space-evenly;
+	padding:30px;
+	margin-top:30px;
+	background-image: url(https://images.pexels.com/photos/3608311/pexels-photo-3608311.jpeg?auto=compress&cs=tinysrgb&w=600);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color:black;
+	backdrop-filter: blur(3px);
+}
+#footer{
+	padding: 40px;
+	color:whitesmoke;
+	text-align: start;
+	
+}
+#footer1{
+	padding: 40px;
+	text-align: start;
+	color: whitesmoke;
+	
+}

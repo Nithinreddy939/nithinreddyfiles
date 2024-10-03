@@ -1,0 +1,130 @@
+body{
+    background-image: url(https://images.pexels.com/photos/73873/star-clusters-rosette-nebula-star-galaxies-73873.jpeg?auto=compress&cs=tinysrgb&w=600);
+    background-repeat: no-repeat;
+	background-size: cover;
+	background-position: fixed;
+    overflow:hidden ;
+    
+}
+.maindiv{
+    height: 480px;
+    width: 800px;
+    padding: 20px;
+    margin-left:200px;
+    margin-top: 30px;
+    backdrop-filter: blur(3px);
+    border-radius: 20px;
+    border-style: solid;
+}.div{
+    height: 300px;
+    width: 300px;
+    margin-left: 50px;
+    color: whitesmoke;
+    font-style: oblique;
+  
+   
+}
+::placeholder{
+	color:white;
+}
+#text{
+    height: 20px;
+	width:280px;
+	background: transparent;
+	border-radius: 15px;
+	border-color: white;
+	border-style: solid;
+	padding: 8px;
+	margin-top: 10px;
+}
+label{
+    margin-top: 30px;
+}
+#email{
+    height: 20px;
+	width:280px;
+	background: transparent;
+	border-radius: 15px;
+	border-color: white;
+	border-style: solid;
+	padding: 8px;
+	margin-top: 10px;
+}
+#password{
+    height: 20px;
+	width:280px;
+	background: transparent;
+	border-radius: 15px;
+	border-color: white;
+	border-style: solid;
+	padding: 8px;
+	margin-top: 10px;
+}
+.div1{
+    height: 300px;
+    width: 300px;
+   margin-left: 440px;
+   margin-top: -300px;
+   color: whitesmoke;
+   font-style: oblique;
+}
+#username{
+    height: 20px;
+	width:280px;
+	background: transparent;
+	border-radius: 15px;
+	border-color: white;
+	border-style: solid;
+	padding: 8px;
+	margin-top: 10px;
+}
+#tel{
+    height: 20px;
+	width:280px;
+	background: transparent;
+	border-radius: 15px;
+	border-color: white;
+	border-style: solid;
+	padding: 8px;
+	margin-top: 10px;
+}
+#password1{
+    height: 20px;
+	width:280px;
+	background: transparent;
+	border-radius: 15px;
+	border-color: white;
+	border-style: solid;
+	padding: 8px;
+	margin-top: 10px;
+}
+.div2{
+    margin-left: 50px;
+    height: 50px;
+    width: 700px;
+    color: whitesmoke;
+    font-style: oblique;
+}
+#radio{
+    margin-left: 20px;
+}
+#radio1{
+    margin-left: 20px;
+}
+#radio2{
+    margin-left: 20px;
+}
+.button{
+    height: 40px;
+    color: white;
+    width: 240px;
+    background: transparent;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: whitesmoke;
+    margin-left: 450px;
+    margin-top: 10px;
+    font-style: oblique;
+    letter-spacing: 1px;
+    font-size: 15px;
+}
